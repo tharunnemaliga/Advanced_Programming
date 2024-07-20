@@ -67,7 +67,7 @@ def process_special_files(dirs, todir='', tozip=''):
         return paths
 
 
-dirs = [r'D:\Isha\ME\studies\assignments']
+dirs = [r'C:\Users\varun\OneDrive\Documents\GitHub\Assignments']
 todir = ''
 tozip = ''
 
